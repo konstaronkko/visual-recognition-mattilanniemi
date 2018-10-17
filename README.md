@@ -78,7 +78,7 @@ Now that you have your credentials ready, copy the API key and save it in a note
  
 Open the Visual Recognition by pressing "Launch tool"
  
-You will see 3 classifiers ready. This is the default Visual recognition set up, so in addition to the general classifier it is able to recognize food and faces. 
+You will see some classifiers ready. This is the default Visual recognition set up, so in addition to the general classifier it is able to recognize food, faces, and some beta features. 
 
 Let's create our own classifier by clicking in "Create Model".
  
