@@ -15,6 +15,8 @@ In this guide, we will create our own custom classifier and a Node-RED applicati
 
 # PART 1: Create a custom classifier
 
+First, download the trainingImages and testImages folders from this github repository.
+
 ## Step 0. Explore: Visual Recognition Service
 The IBM Watson™ Visual Recognition service uses deep learning algorithms to analyze images (.jpg, or .png) for scenes, objects, faces, and other content, and return keywords that provide information about that content. You can also create custom collections of your own images, and then upload an image to search the collection for similar images. 
 
@@ -88,9 +90,7 @@ Give your project a name and description. Assign your Visual Recognition instanc
 
  ![](/screenshots/Picture5.png?raw=true)
 
-Once that's done download the training data located in the "trainingImages" folder.
-
-Create five classes named "Exit", "Hyoky", "Kakophone", "WeimarChicagoRatas", and "Ylistonsilta". For the negative class you can use the Negativemodel.zip file.
+Create five empty classes named "Exit", "Hyoky", "Kakophone", "WeimarChicagoRatas", and "Ylistonsilta". For the negative class you can use the Negativemodel.zip file.
 
  ![](/screenshots/Picture6.png?raw=true)
 
