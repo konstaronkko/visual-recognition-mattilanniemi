@@ -90,11 +90,11 @@ Give your project a name and description. Assign your Visual Recognition instanc
 
  ![](/screenshots/Picture5.png?raw=true)
 
-Create five empty classes named "Exit", "Hyoky", "Kakophone", "WeimarChicagoRatas", and "Ylistonsilta". For the negative class you can use the Negativemodel.zip file.
+Create five empty classes named "Exit", "Hyoky", "Kakophone", "WeimarChicagoRatas", and "Ylistonsilta". 
 
  ![](/screenshots/Picture6.png?raw=true)
 
-Upload the .zip files from trainingImages into Watson Studio. Drag and drop the .zip files into their correct classes. 
+Upload the .zip files from trainingImages into Watson Studio. Drag and drop the .zip files into their correct classes. For the negative class you can use the Negativemodel.zip file.
 
  ![](/screenshots/Picture7.png?raw=true)
 
